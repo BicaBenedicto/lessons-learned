@@ -3,6 +3,7 @@
 Página de apresentação sobre mim, utilizando Html e Css, quando iniciei o curso da Trybe.
 ## Demonstração
 
+![Desktop](./lessons-learned.PNG)
 
 ## Stack utilizada
 
